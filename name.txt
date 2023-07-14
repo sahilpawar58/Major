@@ -1,1 +1,13 @@
+Cervical Cancer:
+  https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening
+
+Parkinson
+  https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction
+  https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
+  https://www.kaggle.com/competitions/predicting-parkinson-s-disease-progression-with-smartphone-data/data
+
+Kidney:
+  glomeruli:
+    https://www.kaggle.com/competitions/hubmap-kidney-segmentation
+
 
