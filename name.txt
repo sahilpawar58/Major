@@ -1,5 +1,6 @@
 Cervical Cancer:
   https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening
+  https://www.kaggle.com/competitions/cervical-cancer-screening
 
 Parkinson
   https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction
@@ -9,5 +10,11 @@ Parkinson
 Kidney:
   glomeruli:
     https://www.kaggle.com/competitions/hubmap-kidney-segmentation
+  https://www.kaggle.com/competitions/hubmap-organ-segmentation
 
+Diabetis:
+  https://www.kaggle.com/competitions/diabetic-retinopathy-detection
+  https://www.kaggle.com/competitions/aptos2019-blindness-detection
 
+Breast cancer:
+  https://www.kaggle.com/competitions/rsna-breast-cancer-detection
