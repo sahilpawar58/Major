@@ -5,6 +5,8 @@ Cervical Cancer:
 Cancer:
   https://www.kaggle.com/competitions/msk-redefining-cancer-treatment
 
+Seizure:
+  https://www.kaggle.com/competitions/seizure-detection
 Parkinson
   https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction
   https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
