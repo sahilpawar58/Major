@@ -23,8 +23,9 @@ Kidney:
   https://www.kaggle.com/competitions/hubmap-organ-segmentation
 
 Diabetis:
-  https://www.kaggle.com/competitions/diabetic-retinopathy-detection
-  https://www.kaggle.com/competitions/aptos2019-blindness-detection
+  retinal:
+      https://www.kaggle.com/competitions/diabetic-retinopathy-detection
+      https://www.kaggle.com/competitions/aptos2019-blindness-detection
 
 Breast cancer:
   https://www.kaggle.com/competitions/rsna-breast-cancer-detection
