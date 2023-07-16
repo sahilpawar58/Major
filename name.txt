@@ -2,6 +2,9 @@ Cervical Cancer:
   https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening
   https://www.kaggle.com/competitions/cervical-cancer-screening
 
+Cancer:
+  https://www.kaggle.com/competitions/msk-redefining-cancer-treatment
+
 Parkinson
   https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction
   https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
