@@ -8,6 +8,8 @@ Cancer:
 Seizure:
   https://www.kaggle.com/competitions/seizure-detection
 Parkinson
+    Stages:
+      https://www.kaggle.com/datasets/kmader/parkinsons-drawings
   https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction
   https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
   https://www.kaggle.com/competitions/predicting-parkinson-s-disease-progression-with-smartphone-data/data
