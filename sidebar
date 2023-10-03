@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        window.onscroll = function() {myFunction()};
+        
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+        
+        function myFunction() {
+          if (window.pageYOffset > sticky) {
+            header.classList.add("sticky");
+          } else {
+            header.classList.remove("sticky");
+          }
+        }
+        </script>
+</head>
+<body class="bg-slate-800 flex flex-col items-start">
+    <!-- <h1 class="text-white m-6 font-semibold ">test</h1>
+    <div class="p-6 max-w-sm max-auto rounded-md bg-white shadow-md flex items-center space-x-4">
+        <div>
+            <img class="h-12 w-12" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+        </div>
+        <div>
+            <div class="font-medium text-2xl">
+                Tailwind CSS
+                <p class="text-slate-500 text-base">By hitesh</p>
+            </div>
+        </div>
+    </div> -->
+    <!--jal-->
+    <div class="bg-orange-300 w-28 h-screen overflow-auto">
+        <div class="p-4 bg-white rounded-md m-1 h-44  ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+        <div class="p-4 bg-white rounded-md m-1 h-44 ">
+            <div>
+                <img clas="h-4 max-w-md" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg">
+            </div>
+            <div class="text-sm text-center">
+                Tap water supply in household
+            </div>
+        </div>
+    </div>
+</body>
+</html>
